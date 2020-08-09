@@ -1,0 +1,5 @@
+Credentials cache: API:743D4598-09D5-4D13-9F5D-736626AB9938
+        Principal: umamisho@42TOKYO.JP
+
+  Issued                Expires               Principal
+Aug  9 21:44:35 2020  Aug 10 07:44:35 2020  krbtgt/42TOKYO.JP@42TOKYO.JP
